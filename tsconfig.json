@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"declaration": false,
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"noUnusedLocals": true,
+		"outDir": "dist/",
+		"removeComments": false,
+		"sourceMap": true,
+		"strict": true,
+		"target": "es2016"
+	},
+	"include": [
+		"./index.ts",
+	]
+}
